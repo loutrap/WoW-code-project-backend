@@ -1,3 +1,7 @@
+# Note
+This application is not hosted on the web but can be downloaded and run locally by following the instructions below.
+
+
 # Overview
 
 I have created this application using Angular 6, Node, and Express.js. There are two separate components, the front-end and back-end. This application utilizes the new Blizzard Dev Api (https://develop.battle.net).
